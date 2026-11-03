@@ -1,4 +1,4 @@
-# Jira Clone — Next.js 16 Application
+# Jira Clone — Next.js 16.4.4 Application
 
 This repo is the **foundation + working board slice** of the conversion, plus.
 
